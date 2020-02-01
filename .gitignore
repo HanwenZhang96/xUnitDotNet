@@ -3,3 +3,10 @@
 ################################################################################
 
 /DemoTests/bin/Debug/netcoreapp2.1
+/Demo/bin/Debug/netcoreapp2.1
+/.vs/xUnitDotNet/v15/Server/sqlite3
+/.vs/xUnitDotNet/v15
+/Demo/obj/Debug/netcoreapp2.1
+/Demo/obj
+/DemoTests/obj/Debug/netcoreapp2.1
+/DemoTests/obj
